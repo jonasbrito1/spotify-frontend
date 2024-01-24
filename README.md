@@ -1,2 +1,1 @@
-# spotify-frontend
-projeto frontend spotify
+# spotify-imersao
